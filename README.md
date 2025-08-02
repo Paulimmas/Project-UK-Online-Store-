@@ -12,7 +12,7 @@ Customer ID 14646 was the highest spender, purchasing items worth approximately 
 
 Highest & Lowest Revenue Products:
 
-The Popcorn Holder generated the most revenue at around $583 thousand .
+Lowest performer in revenue is the Travel Card Wallet Dotcomgiftshop with no sales and a return amounting to over $2000. 
 
 The 12 Hanging Eggs Hand Painted brought in the least, with only $366 in total revenue.
 
